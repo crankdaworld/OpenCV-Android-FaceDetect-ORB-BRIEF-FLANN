@@ -15,4 +15,4 @@ Important: Make sure, you are importing and adding OpenCV library , while buildi
 
 imran [AT] imranakthar [DOT] com
 
-imranakthar.com
+www.imranakthar.com
