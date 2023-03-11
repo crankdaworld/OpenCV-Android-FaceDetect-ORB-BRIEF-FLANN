@@ -14,5 +14,9 @@ The code contains comments, wherever necessary.
 Important: Make sure, you are importing and adding OpenCV library , while building this application.
 
 imran [AT] imranakthar [DOT] com
-
+Copyright
 www.imranakthar.com
+www.utils360.com
+www.ardent.pt
+www.clarion.ai
+
